@@ -8,7 +8,7 @@ from homeassistant.components.discovery import SERVICE_XIAOMI_GW
 from homeassistant.const import (ATTR_BATTERY_LEVEL, EVENT_HOMEASSISTANT_STOP,
                                  CONF_MAC)
 
-REQUIREMENTS = ['https://github.com/Danielhiversen/PyXiaomiGateway/archive/'
+REQUIREMENTS = ['https://github.com/RoberMac/PyXiaomiGateway/archive/'
                 '0.3.2.zip#PyXiaomiGateway==0.3.2']
 
 ATTR_GW_MAC = 'gw_mac'
